@@ -1,0 +1,5 @@
+add_subdirectory(srp)
+add_subdirectory(ocp)
+add_subdirectory(lsp)
+add_subdirectory(isp)
+add_subdirectory(dip)

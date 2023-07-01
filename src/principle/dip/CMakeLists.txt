@@ -1,0 +1,1 @@
+add_executable(dip dependency_inversion.cpp)

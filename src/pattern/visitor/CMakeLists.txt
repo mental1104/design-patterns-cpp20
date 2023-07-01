@@ -1,0 +1,6 @@
+add_executable(acyclic acyclic.cpp)
+add_executable(classic classic.cpp)
+add_executable(dispatch dispatch.cpp)
+add_executable(intrusive intrusive.cpp)
+add_executable(reflective reflective.cpp)
+add_executable(variant variant.cpp)

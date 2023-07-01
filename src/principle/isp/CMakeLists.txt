@@ -1,0 +1,1 @@
+add_executable(isp interface_segregation.cpp)

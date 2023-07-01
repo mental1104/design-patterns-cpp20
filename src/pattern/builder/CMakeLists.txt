@@ -1,0 +1,5 @@
+add_executable(email_builder email_builder.cpp)
+add_executable(html_builder html_builder.cpp)
+add_executable(inherit_builder inherit_builder.cpp)
+add_executable(person_builder person_builder.cpp)
+add_executable(tag tag.cpp)

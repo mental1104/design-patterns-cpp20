@@ -1,0 +1,1 @@
+add_executable(srp single_responsibility.cpp)
